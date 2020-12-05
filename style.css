@@ -1,0 +1,84 @@
+.purple-color{
+
+    color:steelblue;
+
+}
+body { 
+  font-family:sans-serif;
+  color:#777777;
+  line-height:25px ;
+}
+.h{
+  float:left;
+  width:50% ;
+
+}
+.img{
+  
+  width:50% ;
+  padding:left25%;
+}
+.p{
+
+ color:white ;
+ background-color:red ;
+ padding:13px 42px 13px 42px ;
+ border-radius:20px;
+ text-decoration:none;
+ 
+
+
+
+}
+h1 { 
+
+   font-size:1em ;
+   
+   
+   
+   
+   
+}
+
+.co{
+padding:left5% ;
+display:inline-block;
+
+}
+.exp{
+  color:white ;
+  padding:30px ;
+  background-color:red ;
+  margin:30px ;
+  border-radius:20px ;
+
+
+
+}
+.expt{
+padding:10px;
+border-left:1 px solid rgba(137,130,247,2 );
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
