@@ -21,7 +21,7 @@ body {
 .p{
 
  color:white ;
- background-color:red ;
+ background-color:aqua ;
  padding:13px 42px 13px 42px ;
  border-radius:20px;
  text-decoration:none;
@@ -34,8 +34,7 @@ h1 {
 
    font-size:1em ;
    
-   
-   
+     
    
    
 }
@@ -48,7 +47,7 @@ display:inline-block;
 .exp{
   color:white ;
   padding:30px ;
-  background-color:red ;
+  background-color:aqua ;
   margin:30px ;
   border-radius:20px ;
 
